@@ -28,27 +28,7 @@
     text-align: center;
   } 
 
-  ul#display-inline-block-example,
-ul#display-inline-block-example li {
-/* Setting a common base */
-margin: 0;
-padding: 0;
-}
  
-ul#display-inline-block-example {
-width: 300px;
-border: 1px solid #000;
-}
-
-
-ul#display-inline-block-example li {
-
-display: inline-bl     ock;
-width: 100px;
-min-height: 100px;
-background: #ccc;
-vertical-align: top;
-}
 
 .btn {
     height: 50px;
