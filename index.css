@@ -43,7 +43,7 @@ border: 1px solid #000;
 
 ul#display-inline-block-example li {
 
-display: inline-block;
+display: inline-bl     ock;
 width: 100px;
 min-height: 100px;
 background: #ccc;
